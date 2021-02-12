@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.vytrack.runners.FailedTestRunner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 61.642 s <<< FAILURE! - in com.vytrack.runners.FailedTestRunner
+Sales manager user(Account types)  Time elapsed: 31.035 s  <<< FAILURE!
+java.lang.AssertionError
+
